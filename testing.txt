@@ -1,0 +1,5 @@
+This is a test and the first thing that I'll have committed to github.
+
+It is just a test to make sure that I can actually do it.
+
+I'm following the Fullstack Academy coursework to make sure that I'm committing it properly
